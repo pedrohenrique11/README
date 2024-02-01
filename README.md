@@ -1,6 +1,6 @@
-# Iuri Silva
+# Pedro Henrique
 
-Frontend Developer & UI Designer
+Frontend Developer
 
 <p align="left">
   <a href="#" title="LinkedIn">
