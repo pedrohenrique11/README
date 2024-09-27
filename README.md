@@ -11,5 +11,3 @@
 
 - 📫 How to reach me **pedrohenriqueb.dev@gmail.com**
 
-<h3 align="left">Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrohenrique11&show_icons=true&locale=en&layout=compact" alt="pedrohenrique11" /></p>
